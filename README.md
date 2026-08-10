@@ -3,8 +3,10 @@
 > From recording to polished video in 5 minutes, not 5 hours.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/ai-screen-recorder)](https://github.com/your-username/ai-screen-recorder/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/GabutSkuy/ai-screen-recorder)](https://github.com/GabutSkuy/ai-screen-recorder/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_username)](https://twitter.com/your_username)
+
+**Live demo:** https://ai-screen-recorder-delta.vercel.app
 
 **AI-powered screen recording & video editing tool for content creators.**
 
@@ -26,7 +28,7 @@ If this tool helps you, consider supporting its development! 💖
 
 ### 🌟 GitHub Sponsors
 Become a sponsor and help keep this project alive:
-👉 [Sponsor on GitHub](https://github.com/sponsors/Azzzz)
+👉 [Sponsor on GitHub](https://github.com/sponsors/GabutSkuy)
 
 **Tiers:**
 - ☕ $5/month - Support the project
